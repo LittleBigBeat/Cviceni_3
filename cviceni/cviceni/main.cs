@@ -4,7 +4,7 @@ using System.Collections.Generic;
 namespace cviceni
 {
     public class Program
-    {
+    
     public static void Main(string[] args)
         {     
         double[,] matice1 = new double[,]
